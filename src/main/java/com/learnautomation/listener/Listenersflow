@@ -1,0 +1,33 @@
+Listener 
+     ---> Selenium Event
+     			----------> Click
+     			----------> type
+     			----------> getText
+     			----------> url
+     			
+     			
+     ---> TestNG Event
+     			-----------> Test Started
+     			-----------> Test End
+     			-----------> Test Passed
+     			-----------> Test Failed
+     			-----------> Test Skipped
+     			
+     			
+
+     			
+To Perform above all activities we need Listeners.
+
+
+Webdriver Listeners/ Selenium Listenrs - It listens to WebDriver Events
+TestNG Listeners - It listens to TestNG Events
+
+
+
+iTESTResult - It will store all the status information
+ITestContext - It will store  Test Information
+
+
+One single report for all our test, This test has test case name 
+Our extent report get the information , we fetch all the details at run time and add accordinlgy.
+For Each test method will get a dedicated name and status.

@@ -1,0 +1,5 @@
+com\learnautomation\testcases\LoginTest.class
+com\learnautomation\testcases\SmokeTest.class
+com\learnautomation\testcases\RegistrationTest.class
+com\learnautomation\testcases\UserActivitiesTest.class
+com\learnautomation\testcases\FacebookActivitiesTest.class
